@@ -1,0 +1,3 @@
+[submodule "nextjs-dashboard"]
+	path = nextjs-dashboard
+	url = https://github.com/imakyo97/nextjs-dashboard.git
